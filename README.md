@@ -1,2 +1,2 @@
-# html-css-js-project
+# html-css
 HTML projekt1
